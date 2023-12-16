@@ -1,3 +1,6 @@
+//Code from https://www.youtube.com/watch?v=K7uES46uqEA&list=WL&index=4&t=28s
+//To test how works processing.org
+
 void setup(){
     size(1000, 1000);
 }
